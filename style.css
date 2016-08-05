@@ -178,6 +178,10 @@ p {
   padding-top: 20px;
 }
 
+.Cali-img {
+  width: 100%;
+}
+
 .aboutimg {
 /*  clear: both;*/
   float: left;
@@ -193,7 +197,7 @@ p {
 }
 
 img {
-  width: 100%;
+  width: 95%;
 }
 
 .toptext {
@@ -241,7 +245,7 @@ img {
 }
 
 .designcontent1 {
-  width: 49%;
+  width: 48%;
   float: left;
 }
 
@@ -271,17 +275,17 @@ img {
   padding-right: 40px;
 }
 
-.legal {
+.designtext {
   width: 24%;
   height: 100px;
   display: inline-block;
   text-align: center;
 }
 
-.lsflogo {
+/*.lsflogo {
   width: 100px;
   height: 100px;
-}
+}*/
 
 .books {
   width: 49%;
@@ -299,7 +303,7 @@ img {
   background-color: #66c2ff;
   background-size: cover;
   color: white;
-  width: 35%;
+  width: 40%;
   height: 100px;
   margin: 0 auto;
   text-decoration: none;
@@ -390,8 +394,8 @@ button {
 }
 
 #lbIMG {
-  width: 400px;
-  margin: 160px auto;
+  width: auto;
+  margin: 100px auto;
   display: block;
 }
 
